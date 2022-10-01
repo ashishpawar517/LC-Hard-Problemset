@@ -1,2 +1,2 @@
 # LC-Hard-Problemset
-Leetcode hard problmes 
+Leetcode hard problems and Solutions in C++/Java/Python 
