@@ -11,3 +11,4 @@ Leetcode hard problems and Solutions in C++/Java/Python
 1998 | [GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/) | [C++](./C++/1998.cpp)| _O(nlogn + m)_ | _O(n + m)_  | `Union Find` `Sieve of Eratosthenes`
 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [C++](./C++/1559.cpp)| _O(m * n)_ | _O(m * n)_      | `Union Find` `BFS`
 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | [C++](./C++/2035.cpp)| _O(n * 2^n)_ | _O(2^n)_ | `Meet in the Middle`
+1259 |[Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross/) | [C++](./C++/1259.cpp)| _O(n)_ | _O(1)_ | `Catalan Number` `DP`
