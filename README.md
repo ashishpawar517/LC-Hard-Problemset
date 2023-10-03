@@ -7,7 +7,7 @@ Leetcode hard problems and Solutions in C++/Java/Python
 |-----|---------------- | --------------- | --------------- | --------------- |  --------------|-----|
 | 1707 | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | [C++](./C++/1707.cpp) | _O(nlogn + mlogm + nlogk + mlogk)_ | _O(nlogk)_ | `bit-manipulation` | 
  2151 | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [C++](./C++/2151.cpp)| _O(n^2 * 2^n)_ | _O(1)_ | `Bitmasks` `Brute Force`
- 1714 | [Sum Of Special Evenly-Spaced Elements In Array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/) | [C++](./C++/1714.cpp)  | _O(n * sqrt(n))_ | _O(n * sqrt(n))_ | `arrays` | 	🔒 |
+ 1714 | [Sum Of Special Evenly-Spaced Elements In Array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/) | [C++](./C++/1714.cpp)  | _O(n * sqrt(n))_ | _O(n * sqrt(n))_ | `arrays` | 	 |
  1998 | [GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/) | [C++](./C++/1998.cpp)| _O(nlogn + m)_ | _O(n + m)_  | `Union Find` `Sieve of Eratosthenes`
  1970 | [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [C++](./C++/1970.cpp)| _O(m * n)_ | _O(m * n)_ |  `Union Find`
  1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [C++](./C++/1559.cpp)| _O(m * n)_ | _O(m * n)_      | `Union Find` `BFS`
