@@ -10,3 +10,4 @@ Leetcode hard problems and Solutions in C++/Java/Python
 1714 | [Sum Of Special Evenly-Spaced Elements In Array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/) | [C++](./C++/1714.cpp)  | _O(n * sqrt(n))_ | _O(n * sqrt(n))_ | `arrays` | 	🔒 |
 1998 | [GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/) | [C++](./C++/1998.cpp)| _O(nlogn + m)_ | _O(n + m)_  | `Union Find` `Sieve of Eratosthenes`
 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [C++](./C++/1559.cpp)| _O(m * n)_ | _O(m * n)_      | `Union Find` `BFS`
+1862 | [Sum of Floored pairs](https://leetcode.com/problems/sum-of-floored-pairs/) | [C++](./C++/1862.cpp)|     | 
