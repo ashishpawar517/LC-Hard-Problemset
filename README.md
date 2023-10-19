@@ -21,3 +21,4 @@ Leetcode hard problems and Solutions in C++/Java/Python
  1012 | [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/) | [C++](./C++/1012.cpp)| _O(n * 2^n)_ | _O(2^n)_ | `math`
  2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [C++](./C++/2106.cpp)| _O(n)_ | _O(n)_ | `prefix-sum`
  2122 | [Recover the Original Array](https://leetcode.com/problems/recover-the-original-array/) | [C++](./C++/2122.cpp)| _O(n^2)_ | _O(n)_ | 
+ 2301 | [Match Substring After Replacement](https://leetcode.com/problems/match-substring-after-replacement/) | [C++](./C++/2301.cpp)| _O(n^k)_ | _O(m)_ | `brute-force` 
