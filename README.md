@@ -20,4 +20,4 @@ Leetcode hard problems and Solutions in C++/Java/Python
  1259 | [Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross/) | [C++](./C++/1259.cpp)| _O(n)_ | _O(1)_ | `Catalan Number` `DP`
  1012 | [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/) | [C++](./C++/1012.cpp)| _O(n * 2^n)_ | _O(2^n)_ | `math`
  2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [C++](./C++/2106.cpp)| _O(n)_ | _O(n)_ | `prefix-sum`
-
+ 2122 | [Recover the Original Array](https://leetcode.com/problems/recover-the-original-array/) | [C++](./C++/2122.cpp)| _O(n^2)_ | _O(n)_ | 
