@@ -1,0 +1,34 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Update README.md
+        run: ./update_readme.sh
+
+  build-docs:  
+    runs-on: ubuntu-latest
+    needs: update-readme
+    steps:    
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Build documentation
+        run: mkdocs build
+
+  deploy-docs:
+    runs-on: ubuntu-latest
+    needs: build-docs
+    steps:
+      - name: Deploy documentation
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
